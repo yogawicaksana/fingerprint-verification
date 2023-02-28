@@ -8,8 +8,8 @@ The dataset used in this project is the Sokoto Fingerprint dataset, which contai
 ## Files
 The project consists of two main files:
 
-1. preprocess.ipynb: This file preprocesses the raw Sokoto Fingerprint dataset into a format suitable for training the Siamese network. It performs image resizing, normalization, and generates image pairs for training and validation.
-2. train.ipynb: This file trains the Siamese network using the preprocessed dataset and evaluates the model on the validation and test sets. It also includes the code for inference using the trained model.
+1. `preprocess.ipynb`: This file preprocesses the raw Sokoto Fingerprint dataset into a format suitable for training the Siamese network. It performs image resizing, normalization, and generates image pairs for training and validation.
+2. `train.ipynb`: This file trains the Siamese network using the preprocessed dataset and evaluates the model on the validation and test sets. It also includes the code for inference using the trained model.
 
 ## Requirements
 - Python 3.x
